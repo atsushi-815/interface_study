@@ -1,0 +1,3 @@
+# interface_studyについて
+
+interfaceへの理解を深める為に、サンプルでもらったinterfaceを使用したコードを読解していく為に作成したリポジトリ。
